@@ -17,13 +17,16 @@
 > *That's a nice corporeal form you have there. Would be a shame if someone stole it from you.*
 
 ## Concept
-The psychid is a stealthy parasite mask that is focused on stealing bodies in order to slowly spread the infection while picking off members of the crew.
+The psychid is a stealthy parasite mask that is focused on stealing bodies and pretending to be others in order to slowly spread the infection.
 
 ## Abilities
-On death, the psychid will jump into the body of their killer, instantly ghosting the player inside.
-The old body will be left dead on the ground as a parasite, counting towards that total count for the troupe objective.
+On death, the psychid will be revived and swap bodies with their killer.
+Their killer will then become a psychid themselves, spreading the infection further.
 
 ## Gameplay
-The psychid is an incredibly stealthy parasite that is capable of stealing bodies to reduce suspicion on them and spread the infection without anyone knowing.
-Since the body swap is entirely hidden, the only way they can be found is if their old body is discovered and autopsied.
-This creates a situation where the psychid will not only want to get killed, but in such a way that it occurs in a hidden way where the body can easily be hidden.
+The psychid is a stealthy parasite that tests the crew's knowledge of each other.
+Although the killer and the original psychid are allied and both parasites after the kill occurs, their swapped bodies make them highly suspicious.
+The two parasites may want to try and exchange relevant info in order to better disguise as each other.
+
+Once the crew becomes aware of the presence of a psychid, it becomes a major source of paranoia, as the crew are forced to "check" each other in order to root out who the psychid is.
+The nature of the conversion also means that if the psychid dies away from its killer, it may be forced into a completely different body with no context for its current situation.
