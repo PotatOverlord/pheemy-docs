@@ -46,7 +46,7 @@ Once a nudge is applied to a player, it cannot be retrieved until they die.
 Each stagehand has a small amount of nudges depending on how many of their objectives they have completed in their time in the spotlight.
 
 This continues the concept of an organic game director on a lower level; the stagehands compete for their favourite individuals, whereas votes act as an influence over the station as a whole.
-It also allows a natural underdog bonus, as a troupe that has killed a large number of people will have many enemies beyond the curtains.
+For example, it allows a natural underdog bonus, as a troupe that has killed a large number of people will have many enemies beyond the curtains.
 
 The passive nature of the effects mean the player can still go up against all odds, or fail dramatically even with the backing of every single audience member.
 
