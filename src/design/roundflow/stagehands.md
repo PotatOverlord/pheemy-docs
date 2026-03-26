@@ -31,7 +31,7 @@ Stagehands can freely talk with each other and coordinate votes to create intere
 
 ## Cheers & Boos {.es-implemented}
 
-Cheering or Booing is an action made available to stagehands which plays a matching audio sample to living people in an area.
+Cheering or Booing is an action made available to stagehands which plays a matching audio sample to the stagehands and a chance for living people in the area to hear.
 
 Deadchat is often filled with people complaining about someones actions, rightfully or not.
 This allows a way to vent some frustration more effectively than just yelling to other stagehands, as it is actually directed towards the offending player.
@@ -54,3 +54,4 @@ The nullifying effect of nudges are the main balancing factor.
 A character that attracts a large amount of nudges in one direction will likely draw in opposing nudges as well.
 Allowing the stagehands to see the total and effective number of nudges on characters naturally invites this behaviour.
 
+![](../../assets/design/roundflow/radstorm-humour.png)
