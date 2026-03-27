@@ -29,14 +29,14 @@ These observers, by virtue of being equal parts spectators and participants in t
 Additionally, it creates a situation where, even though stagehands are not part of the physical round, they are still capable of having an impact on things as a group.
 Stagehands can freely talk with each other and coordinate votes to create interesting decisions, which helps lessen the feeling of being "excluded" from the round after death.
 
-## Cheers & Boos {.es-implemented}
+## Stagehand Emotes
 
-Cheering or Booing is an action made available to stagehands which plays a matching audio sample to the stagehands and a chance for living people in the area to hear.
+Emotes are actions made available to stagehands which play a matching audio sample to the stagehands and have a chance for living people in the area to hear.
 
 Deadchat is often filled with people complaining about someones actions, rightfully or not.
 This allows a way to vent some frustration more effectively than just yelling to other stagehands, as it is actually directed towards the offending player.
 
-It also allows living players to recieve positive feedback on their play; a syndie who just completed an objective may get a round of applause, with obvious benefits.
+It also allows living players to recieve feedback on their play; a syndie who just completed an objective may get a round of applause, with obvious benefits.
 
 ## Nudges {.es-unimplemented}
 
@@ -54,7 +54,7 @@ The nullifying effect of nudges are the main balancing factor.
 A character that attracts a large amount of nudges in one direction will likely draw in opposing nudges as well.
 Allowing the stagehands to see the total and effective number of nudges on characters naturally invites this behaviour.
 
-### Radstorm nudges {.es-unimplemented}
+### Radstorm Nudges {.es-unimplemented}
 
 Stagehands can use nudges to shift the radstorm closer.
 It has no effect unless a proportion of the stagehands nudge for it, to prevent abuse.
