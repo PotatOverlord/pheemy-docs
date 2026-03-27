@@ -1,4 +1,4 @@
-# Burster
+# Burstworm
 
 {{#template ../../../templates/unimplemented.md }}
 
