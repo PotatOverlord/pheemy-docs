@@ -1,6 +1,6 @@
 # Parasites
 
-{{#template ../../templates/unimplemented.md }}
+{{#template ../../templates/implemented.md }}
 
 Parasites are a **major troupe** focused on jester-type gameplay and taking advantage of people's violent nature.
 They consist of a league of mind-altering parasites who force themselves into brains and guide them into death in order to propagate the infection further.
