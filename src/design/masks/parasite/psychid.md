@@ -1,6 +1,6 @@
 # Pyschid
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Name:** Psychid
 >
