@@ -1,7 +1,5 @@
 # Daredevil
 
-{{#template ../../templates/implemented.md }}
-
 {{#template ../../templates/removed-implemented.md reason="doesnt interact with other players enough, they tend to just do their own thing. going to be reworked into a different mask most likely that is more player-interaction-driven"}}
 
 > **Name:** Daredevil
