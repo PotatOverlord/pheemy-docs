@@ -14,6 +14,8 @@
 >
 > *God I love sleeping in my comfy syndie PJs... Radio transmission? We're nearly out of this mess, I wonder what they need me to do?*
 
+{{#template ../../../templates/renamed.md name="Syndie Superfan"}}
+
 ## Concept
 A second chance for the traitors, who only gets their true mask when their troupe is wiped out.
 
