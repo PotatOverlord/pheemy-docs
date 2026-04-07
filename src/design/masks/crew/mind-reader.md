@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/unimplemented.md }}
 
+{{#template ../../../templates/slated-for-rework.md reason="Predicated on a really centralizing clue-based game dynamic that we don't really want. The concept is not inherently awful but I also don't think it would feel like much of anything right now."}}
+
 > **Name:** Mind Reader
 >
 > **Troupe:** [Crew](../crew.md)
