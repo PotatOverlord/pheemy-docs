@@ -4,7 +4,7 @@
 
 {{#template ../templates/slated-for-rework.md reason="we've learned a lot of lessons from oracles and freaks - namely, they do not work so well as a standard gameplay fixture. the documentation should probably be updated to reflect this."}}
 
-Masks are an additional layer on top of traditional jobs that serves to give greater indivudal direction to players.
+Masks are an additional layer on top of traditional jobs that serves to give greater individual direction to players.
 In the context of SS1X as a whole, they function most similarly to antagonists, though their design is much closer to the roles found in social deduction games like TTT, Town of Salem, or Mafia.
 
 Each mask is organized into a high-level category called a _troupe_, which defines their allegiance and general goals.
